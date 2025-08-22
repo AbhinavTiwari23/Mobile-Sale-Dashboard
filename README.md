@@ -38,3 +38,4 @@ Power BI Desktop – for data modeling & dashboard creation
 DAX Measures – to calculate KPIs & metrics
 
 Interactive Visualizations – Line charts, Bar charts, Pie charts, Maps, and KPI cards
+Example: ![Dashboard Preview].(https://github.com/AbhinavTiwari23/Mobile-Sale-Dashboard/blob/main/Snapshot%20Dashboard.png).
